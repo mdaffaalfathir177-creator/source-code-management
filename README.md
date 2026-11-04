@@ -3,4 +3,4 @@
 ### nim: i.2610192
 
 deskripsi :
-* **latihan algoritma
+* **latihan algoritma**
